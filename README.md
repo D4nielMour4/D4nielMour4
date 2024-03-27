@@ -1,8 +1,13 @@
 # Olá, sou [Daniel Moura]! 👋
 
 ## Sobre Mim
-Sou um desenvolvedor apaixonado por tecnologia, com foco em [Desenvolvimento de Software]. Estou sempre em busca de novos desafios e oportunidades para aprender e crescer profissionalmente.
+Sou um desenvolvedor apaixonado por tecnologia, com foco em Desenvolvimento de Software. Estou sempre em busca de novos desafios e oportunidades para aprender e crescer profissionalmente.
 
+##Areas Estudadas No Momento
+Aqui estão os principais topicos que estou estudando.
+
+-[Rede De Computadores]
+-[Circuitos Digitais]
 ## Principais Projetos
 Aqui estão alguns dos meus projetos mais interessantes:
 
