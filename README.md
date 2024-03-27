@@ -1,16 +1,20 @@
-### Hi there 👋
+# Olá, sou [Daniel Moura]! 👋
 
-<!--
-**D4nielMour4/D4nielMour4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre Mim
+Sou um desenvolvedor apaixonado por tecnologia, com foco em [Desenvolvimento de Software]. Estou sempre em busca de novos desafios e oportunidades para aprender e crescer profissionalmente.
 
-Here are some ideas to get you started:
+## Principais Projetos
+Aqui estão alguns dos meus projetos mais interessantes:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [JJGamesOn](https://github.com/Jlucas66/JJGamesOn): Projeto de implemtação do sistema de funcionamento de uma loja.
+
+## Estatísticas do GitHub
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=sD4nielMour4&show_icons=true&theme=dark)
+
+## Linguagens de Programação Mais Utilizadas
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=D4anielMour4&layout=compact&theme=dark)
+
+## Entre em Contato
+- LinkedIn: [Seu Perfil do LinkedIn](https://www.linkedin.com/in/daniel---moura/)
+- Twitter: [@seu_handle_do_twitter](@OBardoDEV)
+
