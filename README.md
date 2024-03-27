@@ -18,7 +18,7 @@ Aqui estão alguns dos meus projetos mais interessantes:
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=D4nielMour4&show_icons=true&theme=dark)
 
 ## Linguagens de Programação Mais Utilizadas
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=D4nielMour4&layout=compact&theme=dark)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=D4nielMour4&layout=compact&theme=dark)
 
 ## Entre em Contato
 [LinkedIn](https://www.linkedin.com/in/daniel---moura/)
