@@ -15,6 +15,6 @@ Aqui estão alguns dos meus projetos mais interessantes:
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=D4anielMour4&layout=compact&theme=dark)
 
 ## Entre em Contato
-- LinkedIn: [Seu Perfil do LinkedIn](https://www.linkedin.com/in/daniel---moura/)
-- Twitter: [@seu_handle_do_twitter](@OBardoDEV)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/daniel---moura/)
+- Twitter: [@OBardoDEV](twitter.com/@OBardoDEV)
 
