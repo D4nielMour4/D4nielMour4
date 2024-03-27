@@ -15,7 +15,7 @@ Aqui estão alguns dos meus projetos mais interessantes:
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=D4nielMour4&layout=compact&theme=dark)
 
 ## Entre em Contato
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/daniel---moura/)
-- Twitter: [@OBardoDEV](https://twitter.com/OBardoDEV)
-- Instagram: [Instagram](https://www.instagram.com/Apa.JAVA/)
+[LinkedIn](https://www.linkedin.com/in/daniel---moura/)
+[Twitter](https://twitter.com/OBardoDEV)
+[Instagram](https://www.instagram.com/Apa.JAVA/)
 
