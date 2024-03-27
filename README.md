@@ -12,7 +12,7 @@ Aqui estão os principais topicos que estou estudando.
 ## Principais Projetos
 Aqui estão alguns dos meus projetos mais interessantes:
 
-- [JJGamesOn](https://github.com/Jlucas66/JJGamesOn): Projeto de implemtação do sistema de funcionamento de uma loja.
+- [JJGamesOn](https://github.com/D4nielMour4/JJGamesOn-Daniel): Projeto de implemtação do sistema de funcionamento de uma loja.
 
 ## Estatísticas do GitHub
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=D4nielMour4&show_icons=true&theme=dark)
