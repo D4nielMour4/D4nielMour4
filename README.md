@@ -8,7 +8,7 @@ Aqui estão os principais topicos que estou estudando.
 
 - Rede De Computadores
 - Circuitos Digitais
-- -Programaçâo Orientada Objeto
+- Programaçâo Orientada Objeto
 
 ## Estatísticas do GitHub
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=D4nielMour4&show_icons=true&theme=dark)
